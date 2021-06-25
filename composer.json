@@ -1,0 +1,28 @@
+{
+    "name": "jmsc1991/bedca-api",
+    "description": "Ampliación de statickidz/bedca-api",
+    "version": "1.1.0",
+    "keywords": ["bedca", "food", "api"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jmsc1991",
+            "email": "josesolanacases@gmail"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "jmsc1991\\BedcaAPI\\": "src/"
+        },
+        "psr-4": {
+            "jmsc1991\\BedcaAPI\\": "src/jmsc1991/BedcaAPI/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
