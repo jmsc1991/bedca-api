@@ -1,6 +1,6 @@
 {
     "name": "jmsc1991/bedca-api",
-    "description": "Ampliación de statickidz/bedca-api",
+    "description": "Ampliación de statickidz/bedca-api modificada por jmsc1991 con nueva funcionalidad",
     "version": "1.1.0",
     "keywords": ["bedca", "food", "api"],
     "type": "library",
