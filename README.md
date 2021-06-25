@@ -16,7 +16,7 @@ Or edit your project's `composer.json` to require `statickidz/bedca-api` and the
 
 ```json
 "require": {
-    "statickidz/bedca-api": "1.1.0"
+    "jmsc1991/bedca-api": "1.1.1"
 }
 ```
 
@@ -24,7 +24,7 @@ Or edit your project's `composer.json` to require `statickidz/bedca-api` and the
 
 #### Init
 ```php
-use StaticKidz\BedcaAPI\BedcaClient;
+use jmsc1991\BedcaAPI\BedcaClient;
 
 $client = new BedcaClient();
 ```
@@ -81,4 +81,9 @@ $food = $client->getFoodsInGroup(3);
 Same operation with previous data, knowing food ID we can retrieve all data.
 ```php
 $food = $client->getFood(893);
+```
+
+#### Buscar alimentos
+```php
+$food = $client->getSearchFoods('huevo');
 ```
