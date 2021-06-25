@@ -4,7 +4,7 @@
 
 PHP API wrapper to get foods from http://www.bedca.net/bdpub/ public database.
 
-Modificación de statickidz/bedca-api añadiendo una nueva funcionalidad.
+Modificación de [statickidz/bedca-api](https://github.com/statickidz/bedca-api) añadiendo una nueva funcionalidad.
 
 ## Installation
 
