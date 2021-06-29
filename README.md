@@ -14,11 +14,11 @@ Install this package via [Composer](https://getcomposer.org/).
 composer require jmsc1991/bedca-api
 ```
 
-Or edit your project's `composer.json` to require `statickidz/bedca-api` and then run `composer update`.
+Or edit your project's `composer.json` to require `jmsc1991/bedca-api` and then run `composer update`.
 
 ```json
 "require": {
-    "jmsc1991/bedca-api": "1.1.1"
+    "jmsc1991/bedca-api": "1.1.0"
 }
 ```
 

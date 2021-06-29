@@ -1,8 +1,8 @@
 <?php
-namespace StaticKidz\BedcaAPI\Tests;
+namespace Jmsc1991\BedcaAPI\Tests;
 
 use PHPUnit_Framework_TestCase;
-use StaticKidz\BedcaAPI\BedcaClient;
+use Jmsc1991\BedcaAPI\BedcaClient;
 
 /**
  * @property BedcaClient api

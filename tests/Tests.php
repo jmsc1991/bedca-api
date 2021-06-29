@@ -2,7 +2,7 @@
 
 require_once '../vendor/autoload.php';
 
-use StaticKidz\BedcaAPI\BedcaClient;
+use Jmsc1991\BedcaAPI\BedcaClient;
 
 header('Content-Type: text/html; charset=utf-8');
 
