@@ -1,8 +1,8 @@
 <?php
 
-namespace StaticKidz\BedcaAPI;
+namespace Jmsc1991\BedcaAPI;
 
-use StaticKidz\BedcaAPI\Request\BedcaXMLRequests;
+use Jmsc1991\BedcaAPI\Request\BedcaXMLRequests;
 
 /**
  * API client for Spanish Food Composition Database (BEDCA)
