@@ -13,10 +13,10 @@
     ],
     "autoload": {
         "psr-0": {
-            "jmsc1991\\BedcaAPI\\": "src/"
+            "Jmsc1991\\BedcaAPI\\": "src/"
         },
         "psr-4": {
-            "jmsc1991\\BedcaAPI\\": "src/jmsc1991/BedcaAPI/"
+            "Jmsc1991\\BedcaAPI\\": "src/Jmsc1991/BedcaAPI/"
         }
     },
     "require": {
