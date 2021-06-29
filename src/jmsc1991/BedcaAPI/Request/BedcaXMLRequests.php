@@ -1,6 +1,6 @@
 <?php
 
-namespace StaticKidz\BedcaAPI\Request;
+namespace Jmsc1991\BedcaAPI\Request;
 
 /**
  * Raw XML requests for Bedca API.
